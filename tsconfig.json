@@ -1,1 +1,1 @@
-{"crons":[{"path":"/api/cron","schedule":"40 13 * * 0-4"}]}
+{"compilerOptions":{"target":"es2022","lib":["dom","esnext"],"jsx":"preserve","module":"esnext","moduleResolution":"bundler","strict":true,"noEmit":true,"esModuleInterop":true,"skipLibCheck":true,"allowJs":true,"incremental":true,"plugins":[{"name":"next"}],"paths":{"@/*":["./*"]}},"include":["**/*.ts","**/*.tsx"],"exclude":["node_modules"]}
